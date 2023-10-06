@@ -1,0 +1,29 @@
+.sub1{
+    height: 200px;
+    width: 200px;
+    background-color: darkslateblue;
+    border: 5px inset red;
+    margin: 20px;
+    color: white;
+
+}
+.main{
+    background-color: rgb(224,255,255);
+    border: 5px inset red;
+  padding: 60px;
+  margin-top: 30px;
+  width: 1280px;
+  margin-left: 60px;
+  
+ 
+ 
+}
+.sub2{
+    border: 5px inset indigo;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+}
+h2{
+    text-align: center;
+}
